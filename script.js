@@ -24,6 +24,18 @@ const playlist = [
     cover: "images/8.png"
   },
   {
+    title: "Como Una Flor (Versión Los Hermanos Reyes)",
+    artist: "Hermanos Osorio, Los Hermanos Reyes de Guatemala",
+    src: "songs/Como Una Flor (Versión Los Hermanos Reyes).mp3",
+    cover: "images/Como Una Flor (Versión Los Hermanos Reyes).png"
+  },
+  {
+    title: "Empezar de Nuevo",
+    artist: "Kike Pavón/Funky",
+    src: "songs/Empezar.mp3",
+    cover: "images/kiki.png"
+  },
+  {
     title: "Mas Rico Del Mundo",
     artist: "Evan Craft",
     src: "songs/Más_Rico_Del_Mundo.mp3",
