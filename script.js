@@ -1,5 +1,29 @@
 const playlist = [
   {
+    title: "Buscale",
+    artist: "Óscar Medina",
+    src: "songs/Buscale.mp3",
+    cover: "images/Buscale.jpg"
+  },
+    {
+    title: "Increíble (feat.Evan Craft)",
+    artist: "Miel San Marcos/Evan Craft",
+    src: "songs/6.mp3",
+    cover: "images/6.png"
+  },
+  {
+    title: "Todo Lo Has Cambiado",
+    artist: "Danilo Montero",
+    src: "songs/7.mp3",
+    cover: "images/7.png"
+  },
+  {
+    title: "Cuando Yo Te Conocí",
+    artist: "Alex Zurdo",
+    src: "songs/8.mp3",
+    cover: "images/8.png"
+  },
+  {
     title: "Mas Rico Del Mundo",
     artist: "Evan Craft",
     src: "songs/Más_Rico_Del_Mundo.mp3",
@@ -16,6 +40,30 @@ const playlist = [
     artist: "Evan Craft",
     src: "songs/Desesperado.mp3",
     cover: "images/evan.png"
+  },
+  {
+    title: "INFINITO",
+    artist: "Madiel Lara",
+    src: "songs/2.mp3",
+    cover: "images/2.png"
+  },
+  {
+    title: "Vida Encontré",
+    artist: "Majo y Dan",
+    src: "songs/song13.mp3",
+    cover: "images/song13.png"
+  },
+  {
+    title: "Jesús Pt. 2",
+    artist: "LEAD/Musiko",
+    src: "songs/Pt 2.mp3",
+    cover: "images/image (2).png"
+  },
+  {
+    title: "Espíritu Santo",
+    artist: "Redimi2/Barak",
+    src: "songs/Espíritu.mp3",
+    cover: "images/image (6).png"
   },
 ];
 
