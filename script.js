@@ -8,20 +8,20 @@ const playlist = [
     {
     title: "Increíble (feat.Evan Craft)",
     artist: "Miel San Marcos/Evan Craft",
-    src: "songs/6.mp3",
-    cover: "images/6.png"
+    src: "songs/SpotiDownloader.com - Increíble (feat. Evan Craft) - Miel San Marcos.mp3",
+    cover: "images/Cover of Increíble (feat. Evan Craft) by Miel San Marcos, Evan Craft.jpg"
   },
   {
     title: "Todo Lo Has Cambiado",
     artist: "Danilo Montero",
-    src: "songs/7.mp3",
-    cover: "images/7.png"
+    src: "songs/SpotiDownloader.com - Todo Lo Has Cambiado - Danilo Montero.mp3",
+    cover: "images/Cover of Todo Lo Has Cambiado by Danilo Montero, Su Presencia, Thalles Roberto, Victoria Montero.jpg"
   },
   {
     title: "Cuando Yo Te Conocí",
     artist: "Alex Zurdo",
-    src: "songs/8.mp3",
-    cover: "images/8.png"
+    src: "songs/SpotiDownloader.com - Cuando Yo Te Conocí - Alex Zurdo.mp3",
+    cover: "images/Cover of Cuando Yo Te Conocí by Alex Zurdo, AZ Family.jpg"
   },
   {
     title: "Como Una Flor (Versión Los Hermanos Reyes)",
@@ -56,8 +56,8 @@ const playlist = [
   {
     title: "INFINITO",
     artist: "Madiel Lara",
-    src: "songs/2.mp3",
-    cover: "images/2.png"
+    src: "songs/SpotiDownloader.com - INFINITO - Madiel Lara.mp3",
+    cover: "images/Cover of INFINITO by Madiel Lara.jpg"
   },
   {
     title: "Vida Encontré",
