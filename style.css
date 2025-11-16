@@ -38,9 +38,9 @@ background-image: url('images/image.png');
 /* === PLAYER CARD === */
 .player {
   width: 100%;
-  background: linear-gradient(to bottom, #56443feb, #201b15ed);
+  background: linear-gradient(to bottom, #41bbd1eb, #3591a1ed);
   padding: 1.5rem;
-  border-radius: 16px;
+  border-radius: 0px;
   border: 6px solid #444;
   box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
   text-align: center;
